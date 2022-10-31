@@ -1,18 +1,21 @@
-<h1>Hello, I'm Amy</h1>
+<h1>Amy Farnan</h1>
+<h2> <em> Cyber Security Masters Student </em> </h2>
 
-<h2> 🎒 Education </h2>
+
+<h3>👨‍💻Cyber Security Masters</h3>
+
+⚫[Launching into Cyber Security](https://github.com/amykay97/Launching-into-Cyber-Security/blob/main/README.md) <em>(September - December 2022) </em>
+
+
+<h3> 🎒 Education </h3>
 
 🎓 BEng Electrical and Electronic Engineering (2016-2019) <br>
 🎓 Cyber security Technologist Apprenticeship (2021-2022) <br>
 🎓 MSc Cyber Security (2022 - current)
 
 
-<h2>💻 Projects</h2>
+<h3>💻 Projects</h3>
 
-
-<h2>👨‍💻Cyber Security Masters</h2>
-
-⚫[Launching into Cyber Security](https://github.com/amykay97/Launching-into-Cyber-Security/blob/main/README.md) <em>(September - December 2022) </em>
 
 
 <h2> 🤳 Connect with me:</h2>
