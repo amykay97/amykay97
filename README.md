@@ -12,7 +12,7 @@
 
 <h2>👨‍💻Cyber Security Masters</h2>
 
-⚫Launching into Cyber Security <em>(September - December 2022) </em>
+⚫[Launching into Cyber Security](https://github.com/amykay97/Launching-into-Cyber-Security/blob/main/README.md) <em>(September - December 2022) </em>
 
 
 <h2> 🤳 Connect with me:</h2>
