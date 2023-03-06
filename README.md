@@ -10,7 +10,7 @@
 <h3> 🎒 Education </h3>
 
 🎓 BEng Electrical and Electronic Engineering (2016-2019) <br>
-🎓 Cyber security Technologist Apprenticeship (2021-2022) <br>
+
 🎓 MSc Cyber Security (2022 - current)
 
 
